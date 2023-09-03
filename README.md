@@ -8,5 +8,5 @@
   #### - Redux Toolkit
   #### - Tailwind CSS
 
-## Live Project:  [https://chef-in-closet.netlify.app/](https://synopsize.netlify.app/)
+## Live Project: https://synopsize.netlify.app/
 
